@@ -1,2 +1,4 @@
 # Tools-in-Data-Science
-pandas, pandas-profiling, nominatim, wikipedia,
+- pandas, nominatim, wikipedia
+- pandas-profiling
+- Beautiful Soup, python requests, tabula
